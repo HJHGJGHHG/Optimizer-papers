@@ -27,5 +27,5 @@ This part focus on the learning dynamics of deep-learning optimization, which co
 #### B.1. Learning Dynamics of GD, SGD and Momentum
 
 #### B.2. Learning Dynmaics of Adaptive Methods
-* **Towards Theoretically Understanding Why SGD Generalizes Better Than ADAM in Deep Learning**，*Pan Zhou, Jiashi Feng, Chao Ma, Caiming Xiong, Steven Chu Hong Hoi, Weinan E*，NeurIPS 2020，2020  [[NeurIPS PDF]](https://proceedings.neurips.cc/paper/2020/file/f3f27a324736617f20abbf2ffd806f6d-Paper.pdf)
+* **Towards Theoretically Understanding Why SGD Generalizes Better Than ADAM in Deep Learning**，*Pan Zhou, Jiashi Feng, Chao Ma, Caiming Xiong, Steven Chu Hong Hoi, Weinan E*，NeurIPS 2020，2020  [[NeurIPS PDF]](https://proceedings.neurips.cc/paper/2020/file/f3f27a324736617f20abbf2ffd806f6d-Paper.pdf)  [[Newest Version PDF]](https://arxiv.org/pdf/2010.05627.pdf)
 
