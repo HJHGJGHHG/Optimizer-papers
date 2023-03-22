@@ -28,8 +28,9 @@ This part focus on the learning dynamics of deep-learning optimization, which co
 #### B.1. Learning Dynamics of GD, SGD and Momentum
 
 #### B.2. Learning Dynmaics of Adaptive Methods
-* **Towards Theoretically Understanding Why SGD Generalizes Better Than ADAM in Deep Learning**，*Pan Zhou, Jiashi Feng, Chao Ma, Caiming Xiong, Steven Chu Hong Hoi, Weinan E*，NeurIPS 2020，2020  [[NeurIPS PDF]](https://proceedings.neurips.cc/paper/2020/file/f3f27a324736617f20abbf2ffd806f6d-Paper.pdf)  [[Newest Version PDF]](https://arxiv.org/pdf/2010.05627.pdf)
+* **Towards Theoretically Understanding Why SGD Generalizes Better Than ADAM in Deep Learning**，*Pan Zhou, Jiashi Feng, Chao Ma, Caiming Xiong, Steven Chu Hong Hoi, Weinan E*，NeurIPS 2020，2020  [[NeurIPS PDF]](https://proceedings.neurips.cc/paper/2020/file/f3f27a324736617f20abbf2ffd806f6d-Paper.pdf)  [[Newest Version PDF]](https://arxiv.org/pdf/2010.05627.pdf)  [[PowerPoint]](https://pdfs.semanticscholar.org/ba97/7e9be47be2c625365e2830478b74bb43202a.pdf)
 
 ## C.Other perspectives
 * **Dissecting Adam: The Sign, Magnitude and Variance of Stochastic Gradients**，*Lukas Balles, Philipp Hennig*，ICML 2018，2017  [[ICML PDF]](http://proceedings.mlr.press/v80/balles18a/balles18a.pdf)  [[Newest Version PDF]](https://arxiv.org/pdf/1705.07774.pdf)
+* **Descending through a Crowded Valley — Benchmarking Deep Learning Optimizers**，*Robin M. Schmidt, Frank Schneider, Philipp Hennig*，ICML 2020，2020  [[ICML PDF]](http://proceedings.mlr.press/v139/schmidt21a/schmidt21a.pdf)  [[Newest Version PDF]](https://arxiv.org/pdf/2007.01547v6.pdf)
 * **Noise Is Not the Main Factor Behind the Gap Between Sgd and Adam on Transformers, But Sign Descent Might Be**，*Frederik Kunstner, Jacques Chen, J. Wilder Lavington, Mark Schmidt*，ICLR 2023，2023  [[ICLR PDF]](https://openreview.net/pdf?id=a65YK0cqH8g)
