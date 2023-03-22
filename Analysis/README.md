@@ -13,6 +13,7 @@ This part focus on the conventional convergence analysis in optimization, which 
 #### A.2. Convergence analysis of Adaptive Gradient Methods
 * **On the convergence of a class of Adam-type algorithms for non-convex optimization**，*Xiangyi Chen, Sijia Liu, Ruoyu Sun, Mingyi Hong*，ICLR 2019，2018  [[ICLR PDF]](https://arxiv.org/pdf/1808.02941.pdf)
 * **On the convergence proof of AMSGrad and a new version**，*Tran Thi Phuong,  Le Trieu Phong*，IEEE Access，2019  [[IEEE PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8713445)  [[Newest Version PDF]](https://arxiv.org/pdf/1904.03590.pdf)
+* **Stochastic Sign Descent Methods: New Algorithms and Better Theory**，*Mher Safaryan, Peter Richtárik*，ICML 2019，2019  [[ICML PDF]](http://proceedings.mlr.press/v139/safaryan21a/safaryan21a.pdf)  [[Newest Version PDF]](https://arxiv.org/pdf/1905.12938.pdf)
 * **A Simple Convergence Proof of Adam and Adagrad**，*Alexandre Défossez, Léon Bottou, Francis Bach, Nicolas Usunier*，arXiv preprint arXiv:2003.02395，2020  [[Newest Version PDF]](https://arxiv.org/pdf/2003.02395.pdf)
 * **Towards practical Adam: Non-convexity, convergence theory, and mini-batch acceleration**，*Congliang Chen, Li Shen, Fangyu Zou, Wei Liu*，JMLR，2022  [[JMLR PDF]](https://www.jmlr.org/papers/volume23/20-1438/20-1438.pdf)
 
@@ -31,3 +32,4 @@ This part focus on the learning dynamics of deep-learning optimization, which co
 
 ## C.Other perspectives
 * **Dissecting Adam: The Sign, Magnitude and Variance of Stochastic Gradients**，*Lukas Balles, Philipp Hennig*，ICML 2018，2017  [[ICML PDF]](http://proceedings.mlr.press/v80/balles18a/balles18a.pdf)  [[Newest Version PDF]](https://arxiv.org/pdf/1705.07774.pdf)
+* **Noise Is Not the Main Factor Behind the Gap Between Sgd and Adam on Transformers, But Sign Descent Might Be**，*Frederik Kunstner, Jacques Chen, J. Wilder Lavington, Mark Schmidt*，ICLR 2023，2023  [[ICLR PDF]](https://openreview.net/pdf?id=a65YK0cqH8g)
